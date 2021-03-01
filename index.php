@@ -109,7 +109,7 @@ hr.rounded {
 <div class="row">
 
   <div class="col-sm-8">
-  <form action="age.php" name="form" style="margin: 25px;" method="POST">
+  <form action="index.php" name="form" style="margin: 25px;" method="POST">
 
 <label for="dob" style="margin:25px;font-size: 20px; color: white; font-weight: bold; font-family: sans-serif;">Date Of Birth:</label>
 <input type="date" id="dob" name="dob" style="border-radius:10px;background: linear-gradient(to right, #A1C4FD 0%, #C2E9FB 100%); font-size: 20px; font-weight: bold; font-family: sans-serif;" required><br>
